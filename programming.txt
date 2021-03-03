@@ -1,4 +1,8 @@
 welcome to learning code
 python
 web development!!
-
+js
+css
+html
+business logic
+sql
